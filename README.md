@@ -45,6 +45,7 @@ This ER diagram shows the database schema. Which includes tables representing es
 
 ![ERdiagram](https://github.com/user-attachments/assets/7d12d740-44e9-4dae-8e4a-a6bacf155063)
 
+
 Before you run the project, make sure to:
    - Create a SQL Server database named **`TBPDatabase`**.
    - Set up Entity Framework Core in the project.
